@@ -1,0 +1,11 @@
+﻿Terms Counter
+
+-prop ./files/termsCounter.properties -vxl ./files/termsCounterTest.vxl -csv ./files/teste.csv -txt ./files/teste.txt
+
+***************************************************************************************
+Vocabulary Extractor for C
+
+-n GenericProject -r 2.0.1 -d ./ProjetoGenerico -loc hi -vxl ./ProjetoGenerico/GenericProject.vxl -csv ./ProjetoGenerico/GenericProject.csv -func -file CH - msr
+
+
+time java -Xms256M -Xmx2048M -jar "Terms.jar" -prop ./termsCounter.properties -vxl ./Linux/linux-1.0/ -csv ./Linux/linux-1.0/linuxterms.csv -txt ./Linux/linux-1.0/linuxterms.txt

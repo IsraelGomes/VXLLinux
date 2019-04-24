@@ -1,0 +1,29 @@
+C	133738179
+Fortran 90	0
+Modula3	0
+Fortran	0
+sql	0
+Shell	14367
+sed	0
+Haskell	0
+Objective-C	0
+PHP	0
+Pascal	3216
+Ruby	0
+Assembly	0
+lex	26186
+ML	0
+Python	1289
+Java	0
+Yacc	56518
+C++	28623
+COBOL	0
+Perl	36680
+C Shell	0
+awk	0
+Expect	0
+LISP	0
+TCL	0
+Ada	0
+
+Total Characters	133905058

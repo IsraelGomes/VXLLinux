@@ -1,0 +1,43 @@
+Creating filelist for linux-4.15.tar.gz
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Warning: in linux-4.15.tar.gz, number of duplicates=274
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+16943047 linux-4.15.tar.gz ansic=16573108,asm=293716,perl=27271,sh=17871,
+                        python=14602,cpp=7791,yacc=4586,lex=2479,awk=1387,pascal=231,sed=5
+
+
+Totals grouped by language (dominant language first):
+ansic:     16573108 (97.82%)
+asm:         293716 (1.73%)
+perl:         27271 (0.16%)
+sh:           17871 (0.11%)
+python:       14602 (0.09%)
+cpp:           7791 (0.05%)
+yacc:          4586 (0.03%)
+lex:           2479 (0.01%)
+awk:           1387 (0.01%)
+pascal:         231 (0.00%)
+sed:              5 (0.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 16,943,047
+Development Effort Estimate, Person-Years (Person-Months) = 5,514.05 (66,168.66)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 14.15 (169.74)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 389.82
+Total Estimated Cost to Develop                           = $ 744,873,828
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

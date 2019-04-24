@@ -1,0 +1,34 @@
+Creating filelist for linux-1.3.7.tar.gz
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+247480  linux-1.3.7.tar.gz ansic=236851,asm=9791,perl=727,sh=111
+
+
+Totals grouped by language (dominant language first):
+ansic:       236851 (95.71%)
+asm:           9791 (3.96%)
+perl:           727 (0.29%)
+sh:             111 (0.04%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 247,480
+Development Effort Estimate, Person-Years (Person-Months) = 65.20 (782.40)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 2.62 (31.44)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 24.89
+Total Estimated Cost to Develop                           = $ 8,807,623
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
